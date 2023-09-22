@@ -1,5 +1,9 @@
-<h1>Linear Regression with Multiple Variables</h1> 
+<h1>Linear Regression with Multiple Variables</h1>
+
+<p>
 This repository contains a machine learning project that demonstrates the use of linear regression with multiple variables to predict home prices in Monroe, New Jersey, USA. The project focuses on predicting home prices based on three independent variables: square footage (area), number of bedrooms, and the age of the home.
+</p>
+
 
 
 
