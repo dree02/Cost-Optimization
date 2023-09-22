@@ -1,4 +1,4 @@
-Machine Learning with Python: Linear Regression with Multiple Variables
+#Machine Learning with Python: Linear Regression with Multiple Variables
 This repository contains a machine learning project that demonstrates the use of linear regression with multiple variables to predict home prices in Monroe, New Jersey, USA. The project focuses on predicting home prices based on three independent variables: square footage (area), number of bedrooms, and the age of the home. This README provides an overview of the project and instructions on how to use it.
 
 Project Overview
