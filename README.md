@@ -9,27 +9,13 @@ This repository contains a machine learning project that demonstrates the use of
 Project Overview: <br>
 We tackle the problem of predicting home prices using a linear regression model. We have a dataset containing home prices in Monroe Township, New Jersey, where the price depends on the area (in square feet), the number of bedrooms, and the age of the home (in years). Our goal is to predict the prices of new homes based on these features.
 
-</p>
-
-We use the following equation to calculate the home price:
 
 
-Price = (Area * 112.06244194) + (Bedrooms * 23388.88007794) - (Age * 3231.71790863) + 221323.00186540408
-Area, Bedrooms, and Age are the independent variables or features.
+We use the following equation to calculate the home price: <br>
+Price = (Area * a) + (Bedrooms * b) + (Age * c) + d <br>
+Area, Bedrooms, and Age are the independent variables or features.<br>
 Price is the dependent variable that we aim to predict.
-Getting Started
-Follow these steps to get started with the project:
-
-Clone this repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/your-username/linear-regression-multiple-variables.git
-Install the required dependencies. You can do this using pip:
-
-Copy code
-pip install pandas numpy scikit-learn
-Download the dataset (homeprices.csv) and place it in the project directory.
+</p>
 
 Data Preprocessing
 Before training the linear regression model, we perform some data preprocessing steps:
