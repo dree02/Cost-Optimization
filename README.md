@@ -5,11 +5,11 @@ This repository contains a machine learning project that demonstrates the use of
 </p>
 
 
-
-
-
-Project Overview:
+<p>
+Project Overview: <br>
 We tackle the problem of predicting home prices using a linear regression model. We have a dataset containing home prices in Monroe Township, New Jersey, where the price depends on the area (in square feet), the number of bedrooms, and the age of the home (in years). Our goal is to predict the prices of new homes based on these features.
+
+</p>
 
 We use the following equation to calculate the home price:
 
