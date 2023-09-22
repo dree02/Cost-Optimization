@@ -12,7 +12,7 @@ We tackle the problem of predicting home prices using a linear regression model.
 
 
 We use the following equation to calculate the home price: <br>
-Price = (Area * a) + (Bedrooms * b) + (Age * c) + d <br>
+<b>Price = (Area * a) + (Bedrooms * b) + (Age * c) + d</b><br>
 Area, Bedrooms, and Age are the independent variables or features.<br>
 Price is the dependent variable that we aim to predict.
 </p>
