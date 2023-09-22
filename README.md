@@ -1,15 +1,15 @@
 <h1>Linear Regression with Multiple Variables</h1> 
 This repository contains a machine learning project that demonstrates the use of linear regression with multiple variables to predict home prices in Monroe, New Jersey, USA. The project focuses on predicting home prices based on three independent variables: square footage (area), number of bedrooms, and the age of the home.
 
-<br>
+
+
 
 Project Overview:
 We tackle the problem of predicting home prices using a linear regression model. We have a dataset containing home prices in Monroe Township, New Jersey, where the price depends on the area (in square feet), the number of bedrooms, and the age of the home (in years). Our goal is to predict the prices of new homes based on these features.
 
 We use the following equation to calculate the home price:
 
-scss
-Copy code
+
 Price = (Area * 112.06244194) + (Bedrooms * 23388.88007794) - (Age * 3231.71790863) + 221323.00186540408
 Area, Bedrooms, and Age are the independent variables or features.
 Price is the dependent variable that we aim to predict.
