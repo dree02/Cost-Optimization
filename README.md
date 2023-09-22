@@ -38,6 +38,6 @@ After training the model, we can make price predictions for new homes by providi
 </p>
 
 <p>
-<h4>Conclusion</h4>
-This project serves as a simple example of using linear regression with multiple variables for predictive modeling. Feel free to explore the code and dataset to gain a better understanding of how linear regression can be applied to real-world problems. 
+<h3>Conclusion</h3>
+This project serves as an example of using linear regression with multiple variables for predictive modeling. Feel free to explore the code and dataset to gain a better understanding of how linear regression can be applied to real-world problems. 
 </p>
