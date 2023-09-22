@@ -18,11 +18,14 @@ a, b and c are coefficients, and d is the intercept.<br>
 Price is the dependent variable that we aim to predict.
 </p>
 
-Data Preprocessing
-Before training the linear regression model, we perform some data preprocessing steps:
-
-We fill any missing values in the "bedrooms" column with the median value.
+<p>
+<h3>Data Preprocessing</h3>
+Before training the linear regression model, we perform some data preprocessing steps:<br>
+We fill any missing values in the "bedrooms" column with the median value.<br>
 The dataset is loaded into a Pandas DataFrame for further analysis.
+</p>
+
+
 Training the Model
 We use scikit-learn's linear regression implementation to train the model. The code snippet for training the model is provided in the repository.
 
